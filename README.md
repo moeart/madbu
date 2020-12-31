@@ -1,4 +1,4 @@
-# madbu (MorArt's Disk Backup Utility)
+# madbu (MoeArt's Disk Backup Utility)
 
 ### moved to [https://gitlab.com/moeart/madbu](https://gitlab.com/dfc643/datto-backup)
 
