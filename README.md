@@ -1,6 +1,6 @@
 # madbu (MorArt's Disk Backup Utility)
 
-### moved to [https://gitlab.com/moeart/madbu](https://gitlab.com/dfc643/datto-backup/-)
+### moved to [https://gitlab.com/moeart/madbu](https://gitlab.com/dfc643/datto-backup)
 
 A Text based UI to dump live (running) system disk to image file with Volume Shadow Service (VSS or COW) in Linux. need dattobd dkms module support.
 
